@@ -1,0 +1,21 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenu2", "ContextMenu2\ContextMenu2.csproj", "{32F03BDA-C86A-4A0A-A415-5067D04F2DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F03BDA-C86A-4A0A-A415-5067D04F2DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F03BDA-C86A-4A0A-A415-5067D04F2DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F03BDA-C86A-4A0A-A415-5067D04F2DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F03BDA-C86A-4A0A-A415-5067D04F2DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
